@@ -6,13 +6,13 @@ const ProjectsSection: React.FC = () => {
       title: 'BOOKER',
       
       link: 'https://booker-5.onrender.com',
-      image: 'public/assets/project1.png',
+      image: 'https://profile-flame-omega.vercel.app/assets/project1.png',
     },
     {
       title: 'CHAT APP',
      
       link: 'https://soit3-3.onrender.com',
-      image: 'public/assets/project2.png',
+      image: 'https://profile-flame-omega.vercel.app/assets/project2.png',
     },
   ];
 
