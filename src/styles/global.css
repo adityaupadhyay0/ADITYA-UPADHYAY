@@ -15,7 +15,7 @@ body {
   color: white;
   padding: 20px;
   height: 100vh;
-  background-image: url('assets/HERO BACKGROUND.png'); /* Replace with your image path */
+  background-image: url('/HERO BACKGROUND.png'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
