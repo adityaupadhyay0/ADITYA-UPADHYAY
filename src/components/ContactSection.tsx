@@ -27,14 +27,14 @@ const ContactSection: React.FC = () => {
 
         {/* LinkedIn Icon */}
         <div className="icon-container">
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/aditya-upadhyay-480915276/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={32} />
           </a>
         </div>
 
         {/* GitHub Icon */}
         <div className="icon-container">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/adityaupadhyay0" target="_blank" rel="noopener noreferrer">
             <FaGithub size={32} />
           </a>
         </div>
